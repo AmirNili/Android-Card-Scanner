@@ -13,6 +13,7 @@ dependencyResolutionManagement {
     }
 }
 
+
 rootProject.name = "AndroidCardScanner"
 include ':app'
 include ':card-scanner'
